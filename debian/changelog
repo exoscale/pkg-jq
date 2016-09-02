@@ -1,6 +1,7 @@
 jq (1.5+dfsg-1~precise0+exo1) precise; urgency=medium
 
   * Backport to Precise.
+    + Build-Depends on ruby-json.
 
  -- Vincent Bernat <bernat@debian.org>  Fri, 02 Sep 2016 09:29:17 +0200
 
